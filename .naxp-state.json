@@ -2,6 +2,11 @@
   "completedSteps": [
     "dependencies",
     "github_auth",
-    "git_init"
+    "git_init",
+    "project_structure",
+    "github_repo",
+    "ci_setup",
+    "security_protection",
+    "workflow_test"
   ]
 }
